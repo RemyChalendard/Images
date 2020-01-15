@@ -20,8 +20,7 @@ amplitude = reader.nextInt();
 System.out.print(amplitude);
 for (int i = 0 ; i < amplitude ; i++) {
 for ( int j = 0 ; j < valeur ; j++) {  
-
-System.out.println();
+   System.out.println();
  }
 }
 }
