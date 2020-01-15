@@ -8,6 +8,7 @@ Scanner reader = new Scanner (System.in);
 int amplitude = 2;
 int valeur = 5;
 
+
 int tab[] = new int [valeur];
 int tab2[] = new int [amplitude];
 
