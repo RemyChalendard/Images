@@ -10,6 +10,7 @@ public static void afficheBanniere() {
 
 System.out.println("*********************************************************");
 System.out.println("*****                                               *****");
+System.out.println("*****                                               *****");
 System.out.println("*****                   Bienveue                    *****");
 System.out.println("*****                                               *****");
 System.out.println("*****                                               *****");
